@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Text Analysis and Data Visualization in Python </b>
-  - Evanto Package Labels: DS & Algos in Python(**insert link)
+  - Evanto Package Labels: Data Analysis & Algorithms, Natural Language Processing in Python:  https://github.com/marumom1/EvantoPackageLabels 
  
 <h2> Professional Certificates </h2>
-- IBM Data Science professional certificate (**link actual cert.)
+- IBM Data Science professional certificate 
 
 <h2> 🤳 Connect with me:</h2>
 
