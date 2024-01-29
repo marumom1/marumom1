@@ -6,7 +6,8 @@
   - Evanto Package Labels: Data Analysis & Algorithms, Natural Language Processing in Python:  https://github.com/marumom1/EvantoPackageLabels 
  
 <h2> Professional Certificates </h2>
-- IBM Data Science professional certificate 
+ -  <b> IBM Data Science professional certificate </br> 
+ -  <b> Google Project Management certificate </b>
 
 <h2> 🤳 Connect with me:</h2>
 
