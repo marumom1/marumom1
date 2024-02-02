@@ -3,7 +3,10 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Text Analysis and Data Visualization in Python </b>
-  - Evanto Package Labels: Data Analysis & Algorithms, Natural Language Processing in Python:  https://github.com/marumom1/EvantoPackageLabels 
+  - Evanto Package Labels: Data Analysis & Algorithms, Natural Language Processing in Python:  https://github.com/marumom1/EvantoPackageLabels
+ 
+- <b> Data Science and Machine Learning </b>
+  - Mining Process Project: Data analysis, algorithms, machine learning, sensitivity analysis: https://github.com/marumom1/MiningProcessProject/tree/main
  
 <h2> Professional Certificates </h2>
  -  <b> IBM Data Science professional certificate </br> 
