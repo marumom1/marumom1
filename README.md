@@ -8,10 +8,6 @@
 - <b> Data Science and Machine Learning </b>
   - Mining Process Project: Data analysis, algorithms, machine learning, sensitivity analysis: https://github.com/marumom1/MiningProcessProject/tree/main
  
-<h2> Professional Certificates </h2>
- -  <b> IBM Data Science professional certificate </br> 
- -  <b> Google Project Management certificate </b>
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
